@@ -1,8 +1,6 @@
 '''
 processUpdates takes into from the update files and sorts them to be either valid or invalid
 valid updates are then implemented into the data file, whereas invalid ones are written into the badupdates file
-Created by: William Zhang
-SN: 251215208
 '''
 from catalogue import countryCatalogue
 from country import Country
