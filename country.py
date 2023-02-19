@@ -1,7 +1,5 @@
 '''
 class Country holds all information about each country using getters and setters
-Created by: William Zhang
-SN: 251215208
 '''
 class Country:
     #set all getters, setters, and initializers
