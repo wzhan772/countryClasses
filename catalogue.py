@@ -1,7 +1,5 @@
 '''
 class countryCatalogue alters the information about each country by setting, adding, saving, and printing after alteration
-Created by: William Zhang
-SN: 251215208
 '''
 from country import Country
 
